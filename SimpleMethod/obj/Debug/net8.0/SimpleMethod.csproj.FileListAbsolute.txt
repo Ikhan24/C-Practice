@@ -1,0 +1,14 @@
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\SimpleMethod\bin\Debug\net8.0\SimpleMethod.exe
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\SimpleMethod\bin\Debug\net8.0\SimpleMethod.deps.json
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\SimpleMethod\bin\Debug\net8.0\SimpleMethod.runtimeconfig.json
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\SimpleMethod\bin\Debug\net8.0\SimpleMethod.dll
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\SimpleMethod\bin\Debug\net8.0\SimpleMethod.pdb
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\SimpleMethod\obj\Debug\net8.0\SimpleMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\SimpleMethod\obj\Debug\net8.0\SimpleMethod.AssemblyInfoInputs.cache
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\SimpleMethod\obj\Debug\net8.0\SimpleMethod.AssemblyInfo.cs
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\SimpleMethod\obj\Debug\net8.0\SimpleMethod.csproj.CoreCompileInputs.cache
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\SimpleMethod\obj\Debug\net8.0\SimpleMethod.dll
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\SimpleMethod\obj\Debug\net8.0\refint\SimpleMethod.dll
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\SimpleMethod\obj\Debug\net8.0\SimpleMethod.pdb
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\SimpleMethod\obj\Debug\net8.0\SimpleMethod.genruntimeconfig.cache
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\SimpleMethod\obj\Debug\net8.0\ref\SimpleMethod.dll
