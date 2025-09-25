@@ -1,0 +1,14 @@
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.exe
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.deps.json
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.runtimeconfig.json
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.dll
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.pdb
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.AssemblyInfoInputs.cache
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.AssemblyInfo.cs
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.dll
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\WorkingWithStrings\obj\Debug\net8.0\refint\WorkingWithStrings.dll
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.pdb
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.genruntimeconfig.cache
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\WorkingWithStrings\obj\Debug\net8.0\ref\WorkingWithStrings.dll
