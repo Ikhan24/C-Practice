@@ -1,0 +1,14 @@
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\Variables\bin\Debug\net8.0\Variables.exe
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\Variables\bin\Debug\net8.0\Variables.dll
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\Variables\bin\Debug\net8.0\Variables.pdb
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\Variables\obj\Debug\net8.0\Variables.dll
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\Variables\obj\Debug\net8.0\Variables.pdb
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\Users\intez\OneDrive\Desktop\C# Tutorial\Variables\obj\Debug\net8.0\ref\Variables.dll
